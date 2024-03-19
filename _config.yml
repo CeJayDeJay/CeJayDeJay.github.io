@@ -1,5 +1,9 @@
 # Welcome to Jekyll!
-#
+# 
+
+# Run this for local 
+# bundle exec jekyll serve
+
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -27,9 +31,12 @@ url: "https://cejaydejay.github.io/" # the base hostname & protocol for your sit
 github_username:  CeJayDeJay
 
 # Build settings
-theme: jekyll-theme-cayman
+# remote_theme: riggraz/no-style-please
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
-  - jekyll-feed
+- jekyll-feed
+- jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
