@@ -2,8 +2,14 @@
   main:
   - title: "About"
     url: /about/
+  - title: "Species dist."
+    url: /dist/
+  - title: "Env. param."
+    url: /env/
   - title: "Traits"
     url: /traits/
+  - title: "Refs."
+    url: /refs/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
