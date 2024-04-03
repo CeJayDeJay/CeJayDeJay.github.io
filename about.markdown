@@ -9,9 +9,9 @@ The author behind this website is Camilla Juul Dahl Jensen, currently a master s
 
 Facts about the author: 
 * Currently employed at DTU as a student assistent for a senior researcher, Cornelia Jaspers
+* MSc. in Ocean Engineering, Oceanography, from DTU, specialized in  biological oceanographic data analysis 
 * BSc. in Biomedical Engineering from DTU, specialized in biological mathmatical modelling and data analysis including. knowledge about chemistry and systems biology
-* 27 years old 
-* Born in Esbjerg, Denmark 
+* Born in Esbjerg, Denmark, 1996
 * Experience with oceanographic field work from the Nature Institute of Greenland as a part of stock assessment data collection in both the west- and east coast of Greenland, and the transect to Iceland
 * Experience with oceanographic field work from Fairbanks Univerisity of Alaska collecting plankton data from both transects as well as seamounts in the Alaskan part of the North Pacific 
 
