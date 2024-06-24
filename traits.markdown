@@ -154,4 +154,16 @@ survival trait as being transparent reduces the encounter rate with visual preda
 Vertical migration is migration downwards in the water column. This can e.g. happen
 as a migration downwards during the day to hide from the light and then a rising
 towards the surface during the night to feed. This is a behavior some species exhibit
-and a survival strategy as it can reduce the encounter rate with visual predators.[21
+and a survival strategy as it can reduce the encounter rate with visual predators.[21]
+
+## PCA of the functional traits with the selected species 
+
+Principal Component Analysis (PCA) of the functional traits for the selected species reveals 5 clusters which are highlighted in the figure below. 
+
+<img src="../assets/PCA_traits.png" alt="Header Image" style="width: 70%; max-width: 80%; height: auto;">
+
+## Sankey diagram of the selected species and the functional traits 
+
+The Sankey diagram below shows how the selected species are distributed along the functional traits. This highligths how the species are regrouped for analysis of functional trait distributions using the RLQ analysis. 
+
+<img src="../assets/sankey_final.png" alt="Header Image" style="width: 70%; max-width: 80%; height: auto;">
