@@ -1,15 +1,9 @@
 # main links
   main:
-  - title: "About"
-    url: /about/
-  - title: "Species dist."
-    url: /dist/
-  - title: "Env. param."
-    url: /env/
-  - title: "Traits"
-    url: /traits/
-  - title: "Refs."
-    url: /refs/
+  - title: "CV"
+    url: /CV/
+  - title: "Artworks"
+    url: /Artworks/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
