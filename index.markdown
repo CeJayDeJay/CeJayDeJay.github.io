@@ -8,3 +8,4 @@ On this website you can find the following:
 * CV: Education, Selected work experience, Field work experience, Skills
 * Artworks: Experience and selected Artworks
 
+Contact information: camilla.juul.dahl.jensen@hotmail.com
