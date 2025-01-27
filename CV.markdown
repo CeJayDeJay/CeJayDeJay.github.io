@@ -2,7 +2,7 @@
 # layout: default
 title: CV
 permalink: /CV/
-layout: default
+layout: cvHead
 title: "CV - Camilla Juul Dahl Jensen"
 description: "CV"
 ---
