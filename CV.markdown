@@ -95,6 +95,8 @@ Currently researching plankton ecology at the Centre for Gelatinous Plankton Eco
 - Python, R, Matlab, Mike by DHI
 - Microsoft Office, LaTeX
 - Figma, Canva, Illustrator, QGIS, SolidWorks
+- Advanced PADI diver + deep and current diving 
+- Licensed sailor up to 50 feet boats
 
 ---
 
